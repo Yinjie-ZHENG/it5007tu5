@@ -68,7 +68,7 @@ Result of find:
 ```
 ## About Q6 in tutorial5
 As required in Tutorial 5, I am using a separate UI/API server, use port 5000 for API server and port 3000 for UI server.
-## Please DO email me if my repo cannot work, I can send you my docker image which can work stable!
+## Please do email me if my repo cannot work, I can send you my docker image which can work stable!
 My git:
 
 [https://github.com/Yinjie-ZHENG/it5007tu5.git](https://github.com/Yinjie-ZHENG/it5007tu5.git)
