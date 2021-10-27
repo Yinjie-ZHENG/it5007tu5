@@ -39,7 +39,7 @@ mongo issuetracker --eval "db.issues.remove({})"
 node scripts/trymongo.js
 ```
 
-The result is shown below:
+The result is shown below:(Or you can view mongo_result.txt)
 ```
 root@1fc2174f15b7:/home/tu5/pro-mern-stack-2/ui# cd ..
 root@1fc2174f15b7:/home/tu5/pro-mern-stack-2# cd api
